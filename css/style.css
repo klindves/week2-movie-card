@@ -78,8 +78,7 @@ html {
     80% {transform: translateY(20px);}
     100% {transform: translateY(0);}
 }
-    
-}
+
 .movie-genres {
     margin-top: 1.2rem;
 }
